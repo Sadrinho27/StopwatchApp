@@ -43,7 +43,7 @@ public class StopwatchApp extends JFrame {
 
 	@SuppressWarnings("serial")
 	public StopwatchApp() {
-		setTitle("Stopwatch for LeFreshii - By S27");
+		setTitle("Stopwatch - By Sadrinho27");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 370, 330);
 		setResizable(false);
