@@ -20,7 +20,7 @@ Une application **chronomètre** développée avec **Java Swing**, simple et eff
 ## 🧪 Lancer l'application
 
 1. Cloner le dépôt :
-   `git clone https://github.com/ton-utilisateur/stopwatch-java.git`
+   `git clone https://github.com/Sadrinho27/stopwatch-java.git`
 3. Ouvrir avec Eclipse :
 
    `File` > `Import` > `Existing Projects into Workspace`
